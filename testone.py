@@ -1,2 +1,1 @@
-def func():
-    pass
+x = 10
